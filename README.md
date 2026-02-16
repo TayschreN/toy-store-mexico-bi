@@ -73,15 +73,15 @@ Também foram aplicados cálculos de inteligência temporal para análise de ten
 
 O dashboard inclui:
 
-### 🔹 Indicadores Principais (KPIs)
+###  Indicadores Principais (KPIs)
 - **Total de Pedidos:** 41.830  
 - **Receita Total:** $658,19K  
 - **Lucro Total:** $180,45K  
 
-### 🔹 Tendência de Receita Mensal
+###  Tendência de Receita Mensal
 Gráfico de linha para acompanhamento de crescimento e sazonalidade.
 
-### 🔹 Pedidos por Categoria
+###  Pedidos por Categoria
 Comparação entre:
 - Toys
 - Art & Crafts
@@ -89,7 +89,7 @@ Comparação entre:
 - Sports & Outdoor
 - Electronics
 
-### 🔹 Filtro por Localização da Loja
+###  Filtro por Localização da Loja
 Segmentação interativa permitindo análise por:
 - Airport
 - Commercial
@@ -120,10 +120,10 @@ Segmentação interativa permitindo análise por:
 Demonstrar a capacidade de transformar dados brutos de varejo em um painel estratégico que apoia a tomada de decisão orientada por dados.
 
 --
-**Gabriel França da Silva**  
-Estudante de Ciência e Tecnologia – UFABC  
-Interessado em Business Intelligence e Análise de Dados  
 
-🔗 LinkedIn: https://www.linkedin.com/in/gabrielfranca123
-🔗 GitHub: https://github.com/TayschreN  
+## Aprendizado:
+
+Este projeto foi desenvolvido acompanhando a aula disponível neste vídeo: https://www.youtube.com/watch?v=-TmginxY0vw.
+Ao longo do projeto, aprofundei meus conhecimentos em conceitos e técnicas importantes 
+Recomendo fortemente para quem deseja evoluir seus estudos em Data Analytics e Business Intelligence.
 
